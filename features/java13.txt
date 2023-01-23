@@ -1,0 +1,7 @@
+1. Text blocks
+2. New methods in text block for String class
+3. Switch expression enhancements
+4. Reimplementation of Legacy Socket API
+5. Dynamic Class Data sharing archive
+6. ZGC: Uncommit saved memory
+7. FileSystems.newFileSystem() method

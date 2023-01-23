@@ -1,0 +1,5 @@
+1. Switch expressions
+2. Pattern Matching for instanceof operator[Preview]
+3. Helpful NullPointerException
+4. Records[Preview]
+5. Text blocks[Preview]
